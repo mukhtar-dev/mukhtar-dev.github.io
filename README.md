@@ -1,1 +1,49 @@
-# mukhtar-dev.github.io
+---
+layout: default
+title: Mukhtar | Data Engineer
+---
+
+
+# 👋 Hi, I'm Mukhtar
+
+I am a **Data Engineer** with experience in:
+- SQL, Oracle
+- Python, PySpark
+- ETL pipelines
+- Hive, Snowflake
+- SAP data & CDC (Change Data Capture)
+
+I build robust, scalable data pipelines and warehouse solutions that support real-time analytics and decision-making.
+
+---
+
+## 📂 Projects
+
+### 1. Project: dbt + Snowflake Pipeline
+A dbt project connecting to Snowflake with staging, transformation, and documentation layers.
+[🔗 View on GitHub](https://github.com/mukhtar-dev/project1)
+
+### 2. Project: PySpark ETL Pipeline
+An ETL pipeline using PySpark to ingest, process, and load data into Hive and Snowflake.
+[🔗 View on GitHub](https://github.com/mukhtar-dev/project2)
+
+
+---
+
+## 🛠️ Technical Skills
+- **Languages**: SQL, Python
+- **Tools**: dbt, Airflow, Jupyter, Git
+- **Big Data**: PySpark, Hive
+- **Cloud/Warehousing**: Snowflake, Oracle
+- **Others**: SAP data, CDC, ETL workflows
+
+---
+
+## 📄 Resume
+[Download Resume (PDF)](https://example.com/your-resume.pdf)
+
+---
+
+## 🔗 Connect
+- [LinkedIn](https://linkedin.com/in/mukhtar-isam-mukhtar-8932b791)
+- [GitHub](https://github.com/mukhtar-dev)
