@@ -29,7 +29,7 @@ An ETL pipeline for processing and analyzing Exchange Traded Funds (ETFs) data u
 
 ### 3. Project: dbt + Snowflake Pipeline
 A dbt project connecting to Snowflake with staging, transformation, and documentation layers.
-[🔗 View on GitHub](https://github.com/mukhtar-dev/project1)
+[🔗 View on GitHub](https://github.com/mukhtar-dev/dbtlearn)
 
 
 
