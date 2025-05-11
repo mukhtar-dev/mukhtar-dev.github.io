@@ -19,13 +19,18 @@ I build robust, scalable data pipelines and warehouse solutions that support rea
 
 ## 📂 Projects
 
-### 1. Project: dbt + Snowflake Pipeline
+### 1. Project: Change Data Capture with Apache Hudi, Debezium, Kafka & Spark
+How to captures real-time changes from a PostgreSQL database, streams them via Kafka, writes to a Hudi data lake, and incrementally updates an aggregated table
+[🔗 View on GitHub](https://github.com/mukhtar-dev/cdc-apache-hudi)
+
+### 2. Project: Xetra ETFs ETL Pipeline using Python, Pandas and AWS S3
+An ETL pipeline for processing and analyzing Exchange Traded Funds (ETFs) data using Python from the Xetra trading platform stored on S3
+[🔗 View on GitHub](https://github.com/mukhtar-dev/xetra_etl)
+
+### 3. Project: dbt + Snowflake Pipeline
 A dbt project connecting to Snowflake with staging, transformation, and documentation layers.
 [🔗 View on GitHub](https://github.com/mukhtar-dev/project1)
 
-### 2. Project: PySpark ETL Pipeline
-An ETL pipeline using PySpark to ingest, process, and load data into Hive and Snowflake.
-[🔗 View on GitHub](https://github.com/mukhtar-dev/project2)
 
 
 ---
