@@ -44,8 +44,9 @@ A dbt project connecting to Snowflake with staging, transformation, and document
 
 ---
 
-## 📄 Resume
-[Download Resume (PDF)](https://example.com/your-resume.pdf)
+## 📄 CV
+[Download My CV](Mukhtar_CV.pdf)
+
 
 ---
 
