@@ -2,6 +2,6 @@
 title: Mukhtar Isameldin Mukhtar
 email: mukhtar@hotmail.com
 description: >-
-  Data Engineer | SQL, PySpark, Snowflake & DBT
+  Data Engineer | SQL, PySpark, Snowflake, Hive, ETL
 baseurl: "" # the subpath of your site, e.g. /blog
 theme: jekyll-theme-minimal
