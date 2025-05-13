@@ -23,12 +23,12 @@ I build robust, scalable data pipelines and warehouse solutions that support rea
 Hands-on training in:
 - Apache Spark (in depth)
 - Azure: Databricks, Data Factory, Synapse
-- AWS: S3, Redshift, Glue,EMR, Athena
+- AWS: S3, Redshift, Glue, EMR, Athena
 
 ### Databricks Data Engineer Certified Associate
 
-### Snowflake for Data Engineers *(Udemy Course)*
-Practical course focused on Snowflake architecture, SQL-based transformations, and dbt integration.
+### Snowflake for Data Engineers *(Udemy Courses)*
+Practical courses focused on Snowflake architecture, SQL-based transformations, and dbt integration.
 
 ---
 
