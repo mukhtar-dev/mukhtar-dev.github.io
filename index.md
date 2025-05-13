@@ -17,6 +17,21 @@ I build robust, scalable data pipelines and warehouse solutions that support rea
 
 ---
 
+## 🎓 Certifications & Training
+
+### Big Data Master Program (7 months)
+Hands-on training in:
+- Apache Spark (in depth)
+- Azure: Databricks, Data Factory, Synapse
+- AWS: S3, Redshift, Glue,EMR, Athena
+
+### Databricks Data Engineer Certified Associate
+
+### Snowflake for Data Engineers *(Udemy Course)*
+Practical course focused on Snowflake architecture, SQL-based transformations, and dbt integration.
+
+---
+
 ## 📂 Projects
 
 ### 1. Project: Change Data Capture with Apache Hudi, Debezium, Kafka & Spark
