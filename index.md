@@ -50,12 +50,12 @@ A dbt project connecting to Snowflake with staging, transformation, and document
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Technical Skills
+
 - **Languages**: SQL, Python
-- **Tools**: dbt, Airflow, Jupyter, Git
-- **Big Data**: PySpark, Hive
-- **Cloud/Warehousing**: Snowflake, Oracle
-- **Others**: SAP data, CDC, ETL workflows
+- **Data Engineering**: Apache Spark, Qlik Replicate (CDC), ETL Pipelines, dbt and Airflow *(learning & integrating)*
+- **Cloud**: AWS (S3, Redshift, Glue, Athena), Azure (Data Factory, Synapse, Databricks)
+- **Warehousing**: Snowflake, SQL Server, Oracle, Hive
 
 ---
 
